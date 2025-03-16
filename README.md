@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on Security, Web3, Blockchain, and Automation! 
 - 📫 How to reach me - simone@hctit.io
 - ⚡ Fun fact: I built my first computer at 12 and have been a proud nerd since!
-- ✨ My passion: hctit.io
+- ✨ My passion: [HCT IT](https://hctit.io)
 
 
