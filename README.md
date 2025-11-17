@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Simone Haddad and I am an engineer and Founder of HCTIT! 
-- 👀 I’m interested in ALL technology, especially Security, Infrastructure, and Automation. 
+- 👀 I’m interested in ALL technology, especially Security, Infrastructure, Cloud, and Automation. 
 - 🌱 I’m ALWAYS learning
 - 💞️ I’m looking to collaborate on Security, Web3, Blockchain, and Automation! 
 - 📫 How to reach me - simone@hctit.io
