@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on Security, Web3, Blockchain, and Automation! 
 - 📫 How to reach me - simone@nullvectorsec.com
 - ⚡ Fun fact: I built my first computer at 12 and have been a proud nerd since!
-- ✨ My passion: [HCTIT](https://nullvectorsec.com)
+- ✨ My passion: [NullVector](https://nullvectorsec.com)
 
 
