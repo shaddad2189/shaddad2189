@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Simone Haddad and I am an engineer and Founder of NulVector 
+- 👋 Hi, I’m @Simone Haddad and the Founder of NulVector Security
 - 👀 I’m interested in ALL technology, especially Security, Infrastructure, Cloud, and Automation. 
 - 🌱 I’m ALWAYS learning
 - 💞️ I’m looking to collaborate on Security, Web3, Blockchain, and Automation! 
