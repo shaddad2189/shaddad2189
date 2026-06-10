@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Simone Haddad and the Founder of NullVector Security
+- 👋 Hi, I’m Simone Haddad and the Founder of NullVector
 - 👀 I’m interested in ALL technology, especially Security, Infrastructure, Cloud, and Automation. 
 - 🌱 I’m ALWAYS learning
 - 💞️ I’m looking to collaborate on Security, Infrastructure, Cloud, and Automation. 
